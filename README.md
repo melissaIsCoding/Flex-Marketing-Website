@@ -1,2 +1,2 @@
 # Flex-Marketing-Website
-Home and Gallery page for marketing comp. "Flex". 
+Home and Gallery page for marketing company: Flex. 
